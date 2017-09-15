@@ -1,0 +1,14 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "description": "electron todo desktop app",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "author": "shvchk",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.7.6"
+  }
+}
