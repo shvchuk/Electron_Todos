@@ -33,6 +33,7 @@ const menuTemplate = [
   {
     label: 'File',
     submenu: [
+      { role: 'reload' },
       {
         label: 'New Todo',
         click(){ createAddWindow() }
